@@ -12,6 +12,10 @@ Almond
 * Shell is thin, often poorly sealed.
 * Tree is large, harvests easily.
 
+Cost:
+Best time to plant:
+Nurseries:
+
 ### Monterey
 
 ### Butte
